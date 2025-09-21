@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#4FA3F7;">Ahmad Ramadan Elemam</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=40&pause=1000&color=F7C325&center=true&vCenter=true&width=700&height=70&lines=Hi+...+I'm+Ahmad+Ramadan+Elemam+👋" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
