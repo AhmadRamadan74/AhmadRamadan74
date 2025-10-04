@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 60px;">
-  Ahmad Elemam
+<h1 align="center">
+  <img src="https://iili.io/HG9Lsi7.gif" alt="Ahmad Elemam" width="300"/>
 </h1>
 
 ---
@@ -12,7 +12,7 @@
 
 **💼 Ex Software Engineer @Scale AI**  
 
-**🎓 Graduated from the [Faculty of Computer Science and Artificial Intelligence – Helwan University](https://www.helwan.edu.eg/)**  
+**🎓 Graduated from the Faculty of Computers & Informatics, Helwan University**  
 
 **🏆 ECPC Finalist**  
 
@@ -22,9 +22,9 @@
 
 **📘 Active on [Codeforces](https://codeforces.com/profile/TENJEN) & [LeetCode](https://leetcode.com/tenjen)**  
 
-**📝 [My Resume](./Ahmad_Full_Stack.pdf)**  
+**📝 [Resume](./Ahmad_Full_Stack.pdf)**  
 
-**🌐 [My Personal Website](https://protoflio-liart.vercel.app/)**  
+**🌐 [Website](https://protoflio-liart.vercel.app/)**  
 
 ---
 
