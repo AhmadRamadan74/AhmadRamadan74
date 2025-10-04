@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me  
 
 <p align="center">
-  <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="380"/>
+  <img align="right" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" alt="Coding" width="380"/>
 </p>
 
 - 💼 I'm an **Ex Software Engineer @Scale AI**  
