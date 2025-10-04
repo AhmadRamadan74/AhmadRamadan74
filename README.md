@@ -1,9 +1,10 @@
-<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400; animation: fadeIn 2s ease-in-out;">
+<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400;">
   Hi... I'm Ahmad Elemam 👨‍💻
 </h1>
 
-<h2 align="center" style="color: #b0b0b0; font-size: 36px; font-weight: 400; margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="40" style="vertical-align: middle;"/> About Me
+<h2 align="center" style="color: #b0b0b0; font-size: 40px; font-weight: 500; display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBrOG5hMnBxNnNqdGRseWthcGp6enNxNmJ1N2dnanc0dWliODV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width="60" style="vertical-align: middle; border-radius: 10px;"/>
+  About Me
 </h2>
 
 <p>
@@ -28,9 +29,7 @@
 
 ---
 
-<h3 align="center" style="border-bottom: 2px solid #b0b0b0; width: 100%; display: inline-block;">
-  🌐 Connect with me
-</h3>
+<h3 align="center">🌐 Connect with me</h3>
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://twitter.com/rmdn7_7" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -45,8 +44,6 @@
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=react,tailwind,ts,html,css,bootstrap,nodejs,express,mongodb,mysql,java,cpp,c,linux,docker,graphql,git" />
-  <br><br>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBrOG5hMnBxNnNqdGRseWthcGp6enNxNmJ1N2dnanc0dWliODV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width="120" style="margin-top: 10px;"/>
 </p>
 
 ---
