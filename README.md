@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=40&duration=1&pause=99999&color=F7C325&center=true&vCenter=true&width=700&height=70&lines=Hi+...+I'm+Ahmad+Ramadan+👨‍💻" alt="Static Name" />
+  <img src="https://iili.io/HG9Lsi7.gif" alt="Ahmad Elemam" width="300"/>
 </h1>
 
 ---
