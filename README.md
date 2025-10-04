@@ -21,13 +21,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadramadan74&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ahmadramadan74?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
----
-
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/rmdn7_7" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
