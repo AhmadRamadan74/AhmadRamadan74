@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400;">
+<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400; animation: fadeIn 2s ease-in-out;">
   Hi... I'm Ahmad Elemam 👨‍💻
 </h1>
 
@@ -8,9 +8,9 @@
   <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" style="margin-top:-20px;"/>
 </p>
 
-💼 Software Development Engineer at [Scale AI](https://scale.com/)  
+💼 Ex Software Engineer at [Scale AI](https://scale.com/)  
 
-🎓 Graduated from **CS & AI Helwan University**  
+🎓 Graduated from [CS & AI – Helwan University](https://www.helwan.edu.eg/)  
 
 🏆 **ECPC Finalist**  
 
@@ -51,13 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadramadan74&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadramadan74&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-<h3 align="center">💬 Quote</h3>
-
-<blockquote align="center" style="background-color:#0d1117; padding: 20px 30px; border-radius: 10px; color: #00d8ff; font-size: 18px; font-style: italic; line-height: 1.6; box-shadow: 0 0 10px rgba(0,0,0,0.3); width: 80%; margin: 0 auto;">
-  “Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.”
-  <br><br>
-  <span style="color: #3b82f6;">— Marijn Haverbeke</span>
-</blockquote>
