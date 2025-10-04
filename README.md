@@ -2,13 +2,13 @@
   Hi... I'm Ahmad Elemam 👨‍💻
 </h1>
 
-## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
+## <img src="[https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZtbnJ1YTdhamV5dGtzYmwzN2ZobDd4bGR6MXljNGhkNGJjYW52NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif)" width="35"> About Me  
 
 <p>
   <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" style="margin-top:-20px;"/>
 </p>
 
-💼 Ex Software Engineer at [Scale AI](https://scale.com/)  
+💼 Ex **SWE @**  [Scale AI](https://scale.com/)  
 
 🎓 Graduated from [CS & AI – Helwan University](https://www.helwan.edu.eg/)  
 
