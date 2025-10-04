@@ -1,13 +1,22 @@
-<h1 align="center" style="font-size: 60px;">
+<h1 align="center" style="
+  font-size: 75px;
+  color: #b0b0b0;
+  animation: fadeIn 2s ease-in-out infinite alternate;
+">
   Ahmad Elemam
 </h1>
 
----
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0.6; transform: scale(0.98); }
+  100% { opacity: 1; transform: scale(1); }
+}
+</style>
 
 ## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
 
 <p>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"/>
+  <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" style="margin-top:-20px;"/>
 </p>
 
 **💼 Ex Software Engineer @Scale AI**  
@@ -28,8 +37,11 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
+<h3 align="center" style="border-bottom: 2px solid #b0b0b0; width: 100%; display: inline-block;">
+  🌐 Connect with me
+</h3>
+
+<p align="center" style="margin-top: 15px;">
   <a href="https://twitter.com/rmdn7_7" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ahmad-elemam-dev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/TENJEN" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
