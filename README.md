@@ -6,18 +6,25 @@
 
 ## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
 
-<p align="center">
-  <img align="right" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" alt="Coding" width="400"/>
+<p align="right">
+  <img src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" alt="Coding" width="380" style="margin-left: 20px;"/>
 </p>
 
-- 💼 I'm an **Ex Software Engineer @Scale AI**  
-- 🎓 Graduated from the **Faculty of Computers & Informatics** at **Helwan University**  
-- 🏆 **ECPC Finalist**  
-- 💡 I love using software as a **solution for real-world problems**  
-- 🌱 Always **learning new things** and exploring backend development with Node.js  
-- 📘 I’m active on [Codeforces](https://codeforces.com/profile/TENJEN) and [LeetCode](https://leetcode.com/tenjen)  
-- 📝 You can check my **[Resume](./Ahmad_Full_Stack.pdf)**  
-- 🌐 Visit my **[Website](https://protoflio-liart.vercel.app/)**  
+**💼 Ex Software Engineer @Scale AI**  
+
+**🎓 Graduated from the Faculty of Computers & Informatics, Helwan University**  
+
+**🏆 ECPC Finalist**  
+
+**💡 Passionate about using software as a solution for real-world problems**  
+
+**🌱 Currently learning Backend Development with Node.js**  
+
+**📘 Active on [Codeforces](https://codeforces.com/profile/TENJEN) & [LeetCode](https://leetcode.com/tenjen)**  
+
+**📝 [Resume](./Ahmad_Full_Stack.pdf)**  
+
+**🌐 [Website](https://protoflio-liart.vercel.app/)**  
 
 ---
 
