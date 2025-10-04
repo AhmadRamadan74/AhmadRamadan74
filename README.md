@@ -61,5 +61,3 @@
   <br><br>
   <span style="color: #3b82f6;">— Marijn Haverbeke</span>
 </blockquote>
-  <span style="color: #3b82f6;">— Marijn Haverbeke</span>
-</blockquote>
