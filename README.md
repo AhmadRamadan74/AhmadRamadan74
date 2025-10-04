@@ -6,8 +6,8 @@
 
 ## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
 
-<p align="right">
-  <img src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" alt="Coding" width="380" style="margin-left: 20px;"/>
+<p>
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"/>
 </p>
 
 **💼 Ex Software Engineer @Scale AI**  
