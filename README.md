@@ -1,26 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=40&duration=1&pause=99999&color=F7C325&center=true&vCenter=true&width=700&height=70&lines=Hi+...+I'm+Ahmad+Ramadan+👋" alt="Static Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=40&duration=1&pause=99999&color=F7C325&center=true&vCenter=true&width=700&height=70&lines=Hi+...+I'm+Ahmad+Ramadan+👨‍💻" alt="Static Name" />
 </h1>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me  
+## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
 
 <p align="center">
-  <img align="right" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" alt="Coding" width="380"/>
+  <img align="right" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" alt="Coding" width="400"/>
 </p>
 
 - 💼 I'm an **Ex Software Engineer @Scale AI**  
 - 🎓 Graduated from the **Faculty of Computers & Informatics** at **Helwan University**  
 - 🏆 **ECPC Finalist**  
-- 🧩 I’m a **competitive programmer** at  
-  [Codeforces (TENJEN)](https://codeforces.com/profile/TENJEN) ·  
-  [LeetCode](https://leetcode.com/tenjen) ·  
-  [AtCoder](https://atcoder.jp) ·  
-  [CodeChef](https://www.codechef.com) ·  
-  [Google Contests](https://codingcompetitions.withgoogle.com/)  
 - 💡 I love using software as a **solution for real-world problems**  
 - 🌱 Always **learning new things** and exploring backend development with Node.js  
+- 📘 I’m active on [Codeforces](https://codeforces.com/profile/TENJEN) and [LeetCode](https://leetcode.com/tenjen)  
 - 📝 You can check my **[Resume](./Ahmad_Full_Stack.pdf)**  
 - 🌐 Visit my **[Website](https://protoflio-liart.vercel.app/)**  
 
