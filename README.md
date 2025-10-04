@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 65px; color: #b0b0b0;">
+<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400;">
   Hi... I'm Ahmad Elemam 
   <img src="https://iili.io/HG9Lsi7.gif" width="60">
 </h1>
@@ -9,21 +9,21 @@
   <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" style="margin-top:-20px;"/>
 </p>
 
-**💼 Ex Software Engineer @Scale AI**  
+💼 Software Development Engineer at [Scale AI](https://scale.com/)  
 
-**🎓 Graduated from the [Faculty of Computer Science and Artificial Intelligence – Helwan University](https://www.helwan.edu.eg/)**  
+🎓 Graduated from **CS & AI Helwan University**  
 
-**🏆 ECPC Finalist**  
+🏆 **ECPC Finalist**  
 
-**💡 Passionate about using software as a solution for real-world problems**  
+💡 Passionate about using software as a solution for real-world problems  
 
-**🌱 Currently learning Backend Development with Node.js**  
+🌱 Currently learning Backend Development with Node.js  
 
-**📘 Active on [Codeforces](https://codeforces.com/profile/TENJEN) & [LeetCode](https://leetcode.com/tenjen)**  
+📘 Active on [Codeforces](https://codeforces.com/profile/TENJEN) & [LeetCode](https://leetcode.com/tenjen)  
 
-**📝 [My Resume](./Ahmad_Full_Stack.pdf)**  
+📝 [My Resume](./Ahmad_Full_Stack.pdf)  
 
-**🌐 [My Personal Website](https://protoflio-liart.vercel.app/)**  
+🌐 [My Personal Website](https://protoflio-liart.vercel.app/)  
 
 ---
 
