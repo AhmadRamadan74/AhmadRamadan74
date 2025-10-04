@@ -1,6 +1,9 @@
-<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400;">
-  Hi... I'm Ahmad Elemam 👨‍💻
-</h1>
+<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400; overflow: hidden; white-space: nowrap; border-right: 4px solid #b0b0b0; width: 0; animation: typing 3s steps(25, end) forwards, blink 0.7s step-end infinite; text-align:center;">Hi... I'm Ahmad Elemam 👨‍💻</h1>
+
+<style>
+@keyframes typing { from { width: 0; } to { width: 100%; } }
+@keyframes blink { 50% { border-color: transparent; } }
+</style>
 
 <h2 align="center" style="color: #b0b0b0; font-size: 42px; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 10px; flex-direction: row-reverse;">
   <img src="https://camo.githubusercontent.com/e6733dc875a6a93407349aeb14b502a16750420d342e92c7d3f1f287fa4a828e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" width="70" style="vertical-align: middle; border-radius: 12px;"/>
