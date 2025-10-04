@@ -2,13 +2,13 @@
   Hi... I'm Ahmad Elemam 👨‍💻
 </h1>
 
-<h2 align="center" style="color: #b0b0b0; font-size: 40px; font-weight: 500; display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBrOG5hMnBxNnNqdGRseWthcGp6enNxNmJ1N2dnanc0dWliODV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width="60" style="vertical-align: middle; border-radius: 10px;"/>
+<h2 align="center" style="color: #b0b0b0; font-size: 42px; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBrOG5hMnBxNnNqdGRseWthcGp6enNxNmJ1N2dnanc0dWliODV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width="80" style="vertical-align: middle; border-radius: 12px;"/>
   About Me
 </h2>
 
 <p>
-  <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" style="margin-top:-20px;"/>
+  <img align="right" alt="Coding" width="340" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBrOG5hMnBxNnNqdGRseWthcGp6enNxNmJ1N2dnanc0dWliODV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" style="margin-top:-20px; border-radius: 12px;"/>
 </p>
 
 💼 Ex Software Engineer at [Scale AI](https://scale.com/)  
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center" style="color: #b0b0b0;">🌐 Connect with me</h3>
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://twitter.com/rmdn7_7" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="center">⚒️ Languages and Tools</h3>
+<h3 align="center" style="color: #b0b0b0;">⚒️ Languages and Tools</h3>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=react,tailwind,ts,html,css,bootstrap,nodejs,express,mongodb,mysql,java,cpp,c,linux,docker,graphql,git" />
@@ -48,7 +48,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center" style="color: #b0b0b0;">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadramadan74&show_icons=true&theme=tokyonight" height="160"/>
