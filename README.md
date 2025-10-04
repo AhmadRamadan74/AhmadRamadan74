@@ -1,18 +1,7 @@
-<h1 align="center" style="
-  font-size: 75px;
-  color: #b0b0b0;
-  font-weight: 400;
-  animation: fadeIn 2s ease-in-out infinite alternate;
-">
-  👨‍💻 Hi... I'm Ahmad Elemam
+<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400;">
+  Hi... I'm Ahmad Elemam 
+  <img src="https://iili.io/HG9Lsi7.gif" width="60">
 </h1>
-
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0.6; transform: scale(0.98); }
-  100% { opacity: 1; transform: scale(1); }
-}
-</style>
 
 ## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
 
