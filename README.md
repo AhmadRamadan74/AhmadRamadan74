@@ -4,14 +4,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me  
 
-- 🎓 Computer Science Graduate  
-- 🏆 ECPC Finalist  
-- 🌐 Frontend Developer (React)  
-- ⚡ Currently learning Backend with Node.js  
-- 💡 Passionate about Competitive Programming & Problem Solving  
-- 🚀 Always excited to learn new technologies and build impactful projects  
+<p align="center">
+  <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="380"/>
+</p>
+
+- 💼 I'm an **Ex Software Engineer @Scale AI**  
+- 🎓 Graduated from the **Faculty of Computers & Informatics** at **Helwan University**  
+- 🏆 **ECPC Finalist**  
+- 🧩 I’m a **competitive programmer** at  
+  [Codeforces (TENJEN)](https://codeforces.com/profile/TENJEN) ·  
+  [LeetCode](https://leetcode.com/tenjen) ·  
+  [AtCoder](https://atcoder.jp) ·  
+  [CodeChef](https://www.codechef.com) ·  
+  [Google Contests](https://codingcompetitions.withgoogle.com/)  
+- 💡 I love using software as a **solution for real-world problems**  
+- 🌱 Always **learning new things** and exploring backend development with Node.js  
+- 📝 You can check my **[Resume](./Ahmad_Full_Stack.pdf)**  
+- 🌐 Visit my **[Website](https://protoflio-liart.vercel.app/)**  
 
 ---
 
@@ -26,7 +37,7 @@
 <p align="center">
   <a href="https://twitter.com/rmdn7_7" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ahmad-elemam-dev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/tenjen" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/TENJEN" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.leetcode.com/tenjen" target="blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
