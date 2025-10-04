@@ -55,6 +55,9 @@
 ---
 
 <h3 align="center">💬 Quote</h3>
-<p align="center" style="font-style: italic; color: #9e9e9e; font-size: 20px;">
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
-</p>
+
+<blockquote align="center" style="background-color:#0d1117; padding: 20px 30px; border-radius: 10px; color: #00d8ff; font-size: 18px; font-style: italic; line-height: 1.6; box-shadow: 0 0 10px rgba(0,0,0,0.3); width: 80%; margin: 0 auto;">
+  “Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.”
+  <br><br>
+  <span style="color: #3b82f6;">— Marijn Haverbeke</span>
+</blockquote>
