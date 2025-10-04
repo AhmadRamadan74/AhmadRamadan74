@@ -2,7 +2,9 @@
   Hi... I'm Ahmad Elemam 👨‍💻
 </h1>
 
-## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
+<h2 align="center" style="color: #b0b0b0; font-size: 36px; font-weight: 400; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="40" style="vertical-align: middle;"/> About Me
+</h2>
 
 <p>
   <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" style="margin-top:-20px;"/>
@@ -44,7 +46,7 @@
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=react,tailwind,ts,html,css,bootstrap,nodejs,express,mongodb,mysql,java,cpp,c,linux,docker,graphql,git" />
   <br><br>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZtbnJ1YTdhamV5dGtzYmwzN2ZobDd4bGR6MXljNGhkNGJjYW52NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="100">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBrOG5hMnBxNnNqdGRseWthcGp6enNxNmJ1N2dnanc0dWliODV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width="120" style="margin-top: 10px;"/>
 </p>
 
 ---
