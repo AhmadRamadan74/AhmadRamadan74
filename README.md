@@ -1,4 +1,9 @@
-<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400; overflow: hidden; white-space: nowrap; border-right: 4px solid #b0b0b0; width: 0; animation: typing 3s steps(25, end) forwards, blink 0.7s step-end infinite; text-align:center;">Hi... I'm Ahmad Elemam 👨‍💻</h1>
+<h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400;">
+  Hi... I'm 
+  <span style="color: #00ADB5; border-right: 4px solid #00ADB5; white-space: nowrap; overflow: hidden; display: inline-block; animation: typing 3s steps(12, end) forwards, blink 0.6s step-end infinite;">
+    Ahmad Elemam
+  </span> 👨‍💻
+</h1>
 
 
 <h2 align="center" style="color: #b0b0b0; font-size: 42px; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 10px; flex-direction: row-reverse;">
