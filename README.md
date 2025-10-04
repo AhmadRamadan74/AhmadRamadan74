@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=40&duration=1&pause=99999&color=F7C325&center=true&vCenter=true&width=700&height=70&lines=Hi+...+I'm+Ahmad+Ramadan+👨‍💻" alt="Static Name" />
+<h1 align="center" style="font-size: 60px;">
+  Ahmad Elemam
 </h1>
 
 ---
@@ -12,7 +12,7 @@
 
 **💼 Ex Software Engineer @Scale AI**  
 
-**🎓 Graduated from the Faculty of Computers & Informatics, Helwan University**  
+**🎓 Graduated from the [Faculty of Computer Science and Artificial Intelligence – Helwan University](https://www.helwan.edu.eg/)**  
 
 **🏆 ECPC Finalist**  
 
@@ -22,9 +22,9 @@
 
 **📘 Active on [Codeforces](https://codeforces.com/profile/TENJEN) & [LeetCode](https://leetcode.com/tenjen)**  
 
-**📝 [Resume](./Ahmad_Full_Stack.pdf)**  
+**📝 [My Resume](./Ahmad_Full_Stack.pdf)**  
 
-**🌐 [Website](https://protoflio-liart.vercel.app/)**  
+**🌐 [My Personal Website](https://protoflio-liart.vercel.app/)**  
 
 ---
 
