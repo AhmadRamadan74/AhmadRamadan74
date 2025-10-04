@@ -2,10 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=40&duration=1&pause=99999&color=F7C325&center=true&vCenter=true&width=700&height=70&lines=Hi+...+I'm+Ahmad+Ramadan+👋" alt="Static Name" />
 </h1>
 
+---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FA3F7&center=true&vCenter=true&width=500&lines=🎓+Computer+Science+Graduate;🏆+ECPC+Finalist;🌐+Frontend+Developer+(React);⚡+Currently+learning+Backend+with+Node.js" alt="Typing Bio" />
-</h3>
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Graduate  
+- 🏆 ECPC Finalist  
+- 🌐 Frontend Developer (React)  
+- ⚡ Currently learning Backend with Node.js  
+- 💡 Passionate about Competitive Programming & Problem Solving  
+- 🚀 Always excited to learn new technologies and build impactful projects  
 
 ---
 
