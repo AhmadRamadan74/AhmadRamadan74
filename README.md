@@ -1,6 +1,5 @@
 <h1 align="center" style="font-size: 65px; color: #b0b0b0; font-weight: 400;">
-  Hi... I'm Ahmad Elemam 
-  <img src="https://iili.io/HG9Lsi7.gif" width="60">
+  Hi... I'm Ahmad Elemam 👨‍💻
 </h1>
 
 ## <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="35"> About Me  
@@ -51,4 +50,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadramadan74&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadramadan74&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<h3 align="center">💬 Quote</h3>
+<p align="center" style="font-style: italic; color: #9e9e9e; font-size: 20px;">
+  "Code is like humor. When you have to explain it, it’s bad." – Cory House
 </p>
