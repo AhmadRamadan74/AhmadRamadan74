@@ -17,7 +17,7 @@
 
 💼 Ex Software Engineer at [Scale AI](https://scale.com/)  
 
-🎓 Graduated from [CS & AI – Helwan University](https://www.helwan.edu.eg/)  
+🎓 Student @ [CS & AI – Helwan University](https://www.helwan.edu.eg/)  
 
 🏆 **ECPC Finalist**  
 
