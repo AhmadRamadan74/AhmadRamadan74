@@ -1,5 +1,4 @@
-## علّمكم الله ما ينفعكم و نفعكم بما تعلّمتم و زادكم علماً
-
+Hi 👋, I'm Ahmad Ramadan
 ---
 
 ### Languages and Tools 🛠️
@@ -19,16 +18,4 @@
 
 ---
 
-### Ahmad Elemam's GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadramadan74&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-- ⭐ **Total Stars Earned:** 449  
-- 🧩 **Total Commits (last year):** 1.4k  
-- 🔄 **Total PRs:** 311  
-- ❗ **Total Issues:** 67  
-- 🏆 **Contributed to (last year):** 1  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadramadan74&show_icons=true&theme=tokyonight&rank_icon=github" height="160" />
-</p>
