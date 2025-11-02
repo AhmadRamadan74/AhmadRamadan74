@@ -1,21 +1,25 @@
-Hi 👋, I'm Ahmad Ramadan
----
+<h1 align = "center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
+            
 
-### Languages and Tools 🛠️
+### Languages and Tools 🛠: ###
+  
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
-### Reach me at 📬
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-elemam-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramadan.fcai@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/TENJEN)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadramadan74&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+### Reach me at 📫: ###
+<a href="https://www.linkedin.com/in/hazemadelkhalel/">
+  <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>   
+  <a href="mailto:hazemadelkhalel@gmail.com">
+  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>   
+<a href="https://twitter.com/Roookba">
+  <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
+</a>   <a href="https://codeforces.com/profile/Rokba">
+  <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
+</a>       
+<a href="https://www.hackerrank.com/hazemadelkhalel">
+  <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
+</a>
+<br>
+<br>
+<p > <img src="https://github-readme-stats.vercel.app/api?username=hazemadelkhalel&show_icons=true" alt="HazemAdelKhalel" /> </p>
