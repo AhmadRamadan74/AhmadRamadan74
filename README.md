@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Ahmad Elemam</h2>
+<h1 align="center">Hi 👋, I'm Ahmad Elemam</h1>
 
 ### Languages and Tools 🛠: ###
 
