@@ -1,5 +1,5 @@
 <h3 align="center">Ahmad Elemam</h3>
-<h4 align="center">Hello 👋 Frontend React Developer, currently learning Node.js backend.</h4>
+<h4 align="center">Hello Friendo👋, Iam a Frontend React Developer, currently learning Node.js backend.</h4>
 <h6 align="center">Worked @Scale AI · Intern @Route</h6>
 
 <p align="center">
